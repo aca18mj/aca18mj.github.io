@@ -1,4 +1,5 @@
-# Simple game made in Unity [WIP]
+# Made in Unity [WIP]
+Not working in Chrome
 
 `A D` - movement
 
