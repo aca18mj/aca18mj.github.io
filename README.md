@@ -1,7 +1,5 @@
 # Made in Unity [WIP]
 
-`A D` - movement
+`A D` `Space`
 
-`Space` - shooting
-
-Try it [here](https://aca18mj.github.io/)
+[Link](https://aca18mj.github.io/)
