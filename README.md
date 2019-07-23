@@ -1,5 +1,4 @@
 # Made in Unity [WIP]
-Not working in Chrome
 
 `A D` - movement
 
